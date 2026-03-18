@@ -17,7 +17,7 @@ Real-time gesture detection that triggers hamster reaction images using your web
 
 ## Requirements
 ```bash
-pip install opencv-python mediapipe numpy
+pip install opencv-python mediapipe==0.10.10 numpy
 ```
 
 ## Usage
