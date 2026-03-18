@@ -35,3 +35,8 @@ Then run:
 python cam.py
 ```
 Press `q` to quit.
+
+
+## Upcoming
+- [ ] More hamster reaction images
+- [ ] More gestures
