@@ -38,5 +38,5 @@ Press `q` to quit.
 
 
 ## Upcoming
-- [ ] More hamster reaction images
-- [ ] More gestures
+- More hamster reaction images
+- More gestures
