@@ -1,4 +1,4 @@
-# hamster-gesture-cam
+# Hamster Gesture Cam
 
 Real-time gesture detection that triggers hamster reaction images using your webcam.
 
