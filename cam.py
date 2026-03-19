@@ -64,8 +64,8 @@ def thumbs_down(results):
         return False
     for hand_landmarks in results.multi_hand_landmarks:
         lm = hand_landmarks.landmark
-        thumb_down  = lm[4].y > lm[2].y          # tip well below base
-        below_wrist = lm[4].y > lm[0].y          # thumb below wrist
+        thumb_down  = lm[4].y > lm[2].y
+        below_wrist = lm[4].y > lm[0].y
         index_down  = lm[8].y  > lm[5].y
         middle_down = lm[12].y > lm[9].y
         ring_down   = lm[16].y > lm[13].y
