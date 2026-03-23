@@ -137,7 +137,7 @@ while True:
         cv2.putText(panel, "no reaction", (20, panel_h // 2), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 2)
 
     frame[y:y+panel_h, x:x+panel_w] = panel
-    cv2.imshow("gesture Cam", frame)
+    cv2.imshow("gesture cam", frame)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
