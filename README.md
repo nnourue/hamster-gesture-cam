@@ -7,13 +7,17 @@ Built with [MediaPipe](https://mediapipe.dev/) and [OpenCV](https://opencv.org/)
 
 ## Gestures
 
-| Gesture | Image |
-|---|---|
-| Two Fingers | `two.jpg` |
-| Thumbs Up | `ok.jpg` |
-| Thumbs Down | `bad.jpg` |
-| Index Finger | `index.jpg` |
-| Tongue Out | `tongue.jpg` |
+<table>
+  <tr>
+    <th align="left">Gesture</th>
+    <th align="left">Image</th>
+  </tr>
+  <tr><td>Two Fingers</td><td><code>two.jpg</code></td></tr>
+  <tr><td>Thumbs Up</td><td><code>ok.jpg</code></td></tr>
+  <tr><td>Thumbs Down</td><td><code>bad.jpg</code></td></tr>
+  <tr><td>Index Finger</td><td><code>index.jpg</code></td></tr>
+  <tr><td>Tongue Out</td><td><code>tongue.jpg</code></td></tr>
+</table>
 
 ---
 
@@ -29,7 +33,7 @@ pip install opencv-python mediapipe==0.10.10 numpy
 ### Installation
 
 ```bash
-git clone https://github.com/rruexox/hamster-gesture-cam.git
+git clone https://github.com/your-username/hamster-gesture-cam.git
 cd hamster-gesture-cam
 ```
 
