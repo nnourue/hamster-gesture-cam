@@ -99,7 +99,7 @@ while True:
     face_results = face_mesh.process(rgb)
 
     if thumbs_down(hand_results):
-            raw_gesture = "bad"
+        raw_gesture = "bad"
     elif thumbs_up(hand_results):
         raw_gesture = "thumb"
     elif index_middle(hand_results):
