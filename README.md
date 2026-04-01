@@ -33,7 +33,7 @@ pip install opencv-python mediapipe==0.10.10 numpy
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/hamster-gesture-cam.git
+git clone https://github.com/rruexox/hamster-gesture-cam.git
 cd hamster-gesture-cam
 ```
 
