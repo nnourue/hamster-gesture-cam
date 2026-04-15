@@ -37,19 +37,6 @@ git clone https://github.com/rruexox/hamster-gesture-cam.git
 cd hamster-gesture-cam
 ```
 
-### Image Setup
-
-Add your reaction images to a `pics/` folder:
-
-```
-pics/
-├── two.jpg
-├── ok.jpg
-├── bad.jpg
-├── index.jpg
-└── tongue.jpg
-```
-
 ### Run
 
 ```bash
