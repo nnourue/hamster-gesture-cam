@@ -1,4 +1,4 @@
-# 🐹 Hamster Gesture Cam
+# Hamster Gesture Cam
 
 Real-time gesture detection that triggers hamster reaction images using your webcam.  
 Built with [MediaPipe](https://mediapipe.dev/) and [OpenCV](https://opencv.org/).
